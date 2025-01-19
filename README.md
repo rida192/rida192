@@ -1,7 +1,9 @@
 # 👋 Hello, World! I'm Mortada 🚀
 ### 💻 Frontend Developer | 🌐 React & Next.js Enthusiast | 🚀 Tech Explorer
 
-🛠️ I’m passionate about crafting sleek and efficient web and mobile applications, turning ideas into seamless digital experiences.<br>🔥 When I’m not coding, you’ll find me:<br><br>✍️ Writing about tech<br>🎮 Gaming<br>
+🛠️ I’m passionate about crafting sleek and efficient web and mobile applications, turning ideas into seamless digital experiences.<br>
+
+🔥 When I’m not coding, you’ll find me:<br><br>✍️ Writing about tech<br>🎮 Gaming<br>
 
 🌟 Here’s what I do best:<br><br>🚀 Building high-performance websites and apps<br>💡 Solving complex frontend challenges with React & TypeScript<br>📱 Making mobile experiences seamless<br>
 
