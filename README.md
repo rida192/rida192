@@ -22,7 +22,7 @@
 ## 🌐 Socials:
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mortada-emad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mortada-emad-23097a221) 
 
 ## 💻 Tech Stack:
 <br>
